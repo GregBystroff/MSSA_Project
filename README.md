@@ -5,7 +5,10 @@
 ---
 # Quantum Wiki
 ---
+
 [Quantum Wiki Diagram](https://github.com/GregBystroff/MSSA_Project/blob/master/QuantumWiki%20Diagram.pdf)
+
+[QuantumWikiWireframe](https://github.com/GregBystroff/MSSA_Project/blob/master/QuantumWiki%20Diagram.pdf)
 
 Quantum computers are still very much in their infancy, and though Quantum programming is being developed in a few languages, very few resources are currently available and difficult to find. My site is all about providing a central point of reference for those interested in Quantum programming, quantum physics and anything else related to the newly developing industry of quantum computers. 
 
